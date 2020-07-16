@@ -1,4 +1,4 @@
-module github.com/DazWilkin/protobuf-extras
+module github.com/DazWilkin/go-protobuf-extras
 
 go 1.14
 
