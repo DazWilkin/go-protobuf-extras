@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/DazWilkin/protobuf-extras/example"
+	"github.com/DazWilkin/go-protobuf-extras/example"
 	"google.golang.org/protobuf/reflect/protodesc"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
